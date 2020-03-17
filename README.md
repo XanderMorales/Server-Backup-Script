@@ -1,5 +1,5 @@
 # server-backup-script
-Backup Scripte using two server - source to destination
+Backup Script using two server - source to destination
 
 This is a script using rsync.
 
